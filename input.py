@@ -1,2 +1,5 @@
 name = input("enter your name")
-print ("abhishek")
+print ("hello"+name)
+
+address = input("enter your address")
+print ("nigdi")
